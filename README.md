@@ -80,7 +80,7 @@ GRNforge/
     - Output of each file is a h5da file, which contain cell and gene information for each activity, with normalized value (gene activity from ATAC and gene expresison from RNA). 
 - FBS detection: to detect TF binding sites, we use
     - GimmeMotifs for motif scanning
-    - TOBIAS for ATAC footprint correction and footprint scoring
+    - TOBIAS for ATAC correction and footprint scoring
     - Generates TF–RE connections using motif matches, footprints, and RE–TG distance
     ```
     python scripts/GRNforge/tfbs_detection/filter_peak_and_find_motifs.py
