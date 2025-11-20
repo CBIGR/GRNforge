@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: GRNforge
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jens Uwe Loers
+  - given-names: Mirte De Temmerman
+  - given-names: Vittorio Zanzani
+  - given-names: Hoang Thien Thu Nguyen
+  - given-names: Vanessa Vermeirssen
+repository-code: 'https://github.com/CBIGR/GRNforge'
+abstract: >-
+  An integrated multi-feature single-cell multiomics gene
+  regulatory network inference method based on
+  transcriptomics, chromatin accessibility and transcription
+  factor cooperativity
+license: GPL-3.0
