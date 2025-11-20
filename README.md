@@ -29,8 +29,6 @@ Python dependencies are documented at the top of each script and include:
 
 - gimmemotifs
 
-- TOBIAS
-
 - pybiomart
 
 - scanpy
@@ -38,10 +36,6 @@ Python dependencies are documented at the top of each script and include:
 - pyscenic
 
 - pybedtools
-
-- pybiomart
-
-- scanpy
 
 - xgboost
 
