@@ -33,13 +33,13 @@ Python dependencies are documented at the top of each script and include:
 
 - pandas
 
-- scikit-learn, scipy
+- scikit-learn
+
+- scipy
 
 - pyBigWig
 
 - gimmemotifs
-
-- TOBIAS
 
 - pybiomart
 
