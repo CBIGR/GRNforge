@@ -31,13 +31,15 @@ pip install -r requirements.txt
 ```
 Python dependencies are documented at the top of each script and include:
 
-- numpy, pandas
+- pandas
 
 - scikit-learn, scipy
 
 - pyBigWig
 
 - gimmemotifs
+
+- TOBIAS
 
 - pybiomart
 
